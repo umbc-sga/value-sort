@@ -1,0 +1,200 @@
+{
+    "cards": [
+        {
+            "name": "Adventure",
+            "description": "Seeks out and/or participates in exciting events that involve uncertainty"
+        },
+        {
+            "name": "Autonomy",
+            "description": "Places importance on freedom, independence and individual discretion"
+        },
+        {
+            "name": "Challenges",
+            "description": "Things or situations that test a person's thoughts or abilities"
+        },
+        {
+            "name": "Change",
+            "description": "A shift from one state, stage or phase to another"
+        },
+        {
+            "name": "Community",
+            "description": "A group of people with a common background or characteristic or with shared interests"
+        },
+        {
+            "name": "Competence",
+            "description": "Ability to solve problems, demonstrates mastery"
+        },
+        {
+            "name": "Competition",
+            "description": "Comparison of self, team or organization against oneself or another"
+        },
+        {
+            "name": "Cooperation",
+            "description": "Placing importance on working together to achieve results; go along with a role"
+        },
+        {
+            "name": "Creativity",
+            "description": "Placing importance on imagination, inspiration and inventiveness"
+        },
+        {
+            "name": "Decisiveness",
+            "description": "The ability to make decisions firmly, clearly, conclusively and in a timely manner"
+        },
+        {
+            "name": "Diversity",
+            "description": "Appreciates and respects individual differences"
+        },
+        {
+            "name": "Environment",
+            "description": "Awareness of natural resources"
+        },
+        {
+            "name": "Education",
+            "description": "Placing importance on learning and education"
+        },
+        {
+            "name": "Ethics",
+            "description": "Valuing moral standards"
+        },
+        {
+            "name": "Excellence",
+            "description": "Pursuit of the highest level of optimal performance"
+        },
+        {
+            "name": "Excitement",
+            "description": "Things that engage attention and/or emotion, in a lively, stimulating and compelling way"
+        },
+        {
+            "name": "Fairness",
+            "description": "Placing importance in justice, decency and equality"
+        },
+        {
+            "name": "Fame",
+            "description": "Recognition by others, desire to be well-known"
+        },
+        {
+            "name": "Family",
+            "description": "Connection to immediate or expended relations"
+        },
+        {
+            "name": "Flexibility",
+            "description": "The ability to adapt to environments, situations or changes"
+        },
+        {
+            "name": "Freedom",
+            "description": "Without obligation"
+        },
+        {
+            "name": "Friendship",
+            "description": "Strong ties with family, friends, co-workers or members of a certain community"
+        },
+        {
+            "name": "Happiness",
+            "description": "Feelings of contentment, satisfaction and/or fulfillment"
+        },
+        {
+            "name": "Health",
+            "description": "Placing importance on physical and emotional well-being"
+        },
+        {
+            "name": "Helping Others",
+            "description": "placing importance on assisting other people"
+        },
+        {
+            "name": "Honesty",
+            "description": "Telling the truth, does not engage in deception, is forthright and candid"
+        },
+        {
+            "name": "Independence",
+            "description": "Ability to be self-directed in one's thoughts and actions"
+        },
+        {
+            "name": "Integrity",
+            "description": "Firm adherence to a moral code and/or set of values, walking the talk"
+        },
+        {
+            "name": "Leadership",
+            "description": "The ability to create relationships in order to complete a stated goal or mission"
+        },
+        {
+            "name": "Loyalty",
+            "description": "Allegiances to people, organizations, ideals, causes, etc."
+        },
+        {
+            "name": "Meaningful Work",
+            "description": "Doing and providing work that has a purpose and/or significance"
+        },
+        {
+            "name": "Money",
+            "description": "Financial assets, the accumulation of wealth"
+        },
+        {
+            "name": "Order",
+            "description": "Adherence to a system, protocol or code"
+        },
+        {
+            "name": "Philanthropy",
+            "description": "Giving of monetary gifts in order to benefit others"
+        },
+        {
+            "name": "Play",
+            "description": "Imagination, spontaneity; the ability to be amused"
+        },
+        {
+            "name": "Pleasure",
+            "description": "Enjoyment, delight, satisfaction or fulfillment"
+        },
+        {
+            "name": "Power",
+            "description": "Strength, superiority, dominance and/or authority"
+        },
+        {
+            "name": "Privacy",
+            "description": "The need for solitude or separateness"
+        },
+        {
+            "name": "Recognition",
+            "description": "Acknowledgment and/or validation"
+        },
+        {
+            "name": "Relationships",
+            "description": "Connections between and among people"
+        },
+        {
+            "name": "Religion",
+            "description": "A specific system of belief or worship"
+        },
+        {
+            "name": "Safety",
+            "description": "A concern for the security and well-being of one's self and/or others"
+        },
+        {
+            "name": "Security",
+            "description": "The feeling of being protected or safeguarded from danger, a sense of comfort"
+        },
+        {
+            "name": "Service",
+            "description": "Placing importance on serving others with quality and value"
+        },
+        {
+            "name": "Spirituality",
+            "description": "Appreciating the need to understand one's inner self and its relationship with the world"
+        },
+        {
+            "name": "Stability",
+            "description": "Taking on day-to-day activities in a calm and consistent manner"
+        },
+        {
+            "name": "Status",
+            "description": "Placing importance on the rank or position of something in a relationship or group"
+        },
+        {
+            "name": "Wealth",
+            "description": "richness in terms of assets or money"
+        },
+        {
+            "name": "Work",
+            "description": "Employment, occupation, or fulfillment of a task or duty"
+        }
+    ]
+}

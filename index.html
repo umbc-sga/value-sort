@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>UMBC SGA Value Card Sort</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+    <body>
+        <h1 class="text-center">UMBC SGA Value Card Sort</h1>
+
+        <h3 class="text-center" style="margin-bottom: 0;">Instructions:</h3>
+        <p id="instructions" class="text-center">
+            Drag each of the values into one of the three bins below, depending on how much you value the "thing" on the card. If you are ever unsure of what the thing is, press the information button to show a description. If you want to hide the description, just press the information button again.
+        </p>
+
+        <section id="bins">
+            <section>
+                <h3 class="text-center">
+                    Very Important
+                    (<span class="count">0</span>)
+                </h3>
+                <div id="veryImportant"></div>
+            </section>
+
+            <section>
+                <h3 class="text-center">
+                    Somewhat Important
+                    (<span class="count">0</span>)
+                </h3>
+                <div id="somewhatImportant"></div>
+            </section>
+
+            <section>
+                <h3 class="text-center">
+                    Not Important
+                    (<span class="count">0</span>)
+                </h3>
+                <div id="notImportant"></div>
+            </section>
+        </section>
+
+        <section id="cards"></section>
+
+        <script src="js/app.js"></script>
+    </body>
+</html>

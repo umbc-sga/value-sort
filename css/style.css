@@ -1,0 +1,78 @@
+html {
+    font-family: sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#bins {
+    display: flex;
+
+    height: 200px;
+    margin-bottom: 100px;
+}
+
+#bins h3 {
+    margin-bottom: 5px;
+}
+
+#bins section {
+    flex-grow: 3;
+}
+
+#bins section:not(:last-child) {
+    margin-right: 10px;
+}
+
+#bins div {
+    width: 100%;
+    height: 100%;
+
+    overflow: auto;
+
+    text-align: center;
+
+    box-sizing: border-box;
+    padding: 5px;
+    
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+#cards {
+    display: flex;
+    flex-flow: row wrap;
+
+    justify-content: center;
+}
+
+#cards div:not(:last-child) {
+    margin-right: 10px;
+}
+
+.card {
+    height: 150px;
+    width: 150px;
+
+    box-sizing: border-box;
+    padding: 5px;
+
+    margin-bottom: 5px;
+
+    overflow-x: hidden;
+    overflow-y: auto;
+
+    border: 1px solid black;
+    border-radius: 4px;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
